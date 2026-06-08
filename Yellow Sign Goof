@@ -1,4 +1,4 @@
-[color=#DAA520]                                         
+[bold][color=#DAA520]                                         
                                                         
                   .:-+**+=---==+*+:.                       
             .:===-------------------+-                     
@@ -33,6 +33,6 @@
      .++                                  ..-=---==.       
                                     =%====-----+-          
                                      .:-====-:.            
-                                        [/color]                  
+                                        [/color]    [/bold]              
 
-[b]Have you seen the yellow sign[/b]
+[italic][bold][b]Have you seen the yellow sign[/b][/bold][/italic]
